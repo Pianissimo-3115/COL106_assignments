@@ -1,0 +1,201 @@
+
+Testing routes for start_city=3472, destination=8812
+Task 1: Took 0.1087651252746582
+Task 1: Least Flights Earliest Route - Number of flights: 7, Arrival time: 7497
+Task 2: Cheapest Route - Total cost: 20111542
+Task 2: Took 0.09489679336547852
+Task 3: Least Flights Cheapest Route - Number of flights: 7, Total cost: 30747013
+Task 3: Took 0.10932660102844238
+Time taken for start_city=3472, destination=8812: 0.31 seconds
+
+
+Testing routes for start_city=3898, destination=5857
+Task 1: Took 0.10980224609375
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.07931971549987793
+Task 3: No route found.
+Task 3: Took 0.09367132186889648
+Time taken for start_city=3898, destination=5857: 0.28 seconds
+
+
+Testing routes for start_city=9188, destination=1890
+Task 1: Took 0.015523672103881836
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.015623807907104492
+Task 3: No route found.
+Task 3: Took 1.0559115409851074
+Time taken for start_city=9188, destination=1890: 1.09 seconds
+
+
+Testing routes for start_city=9172, destination=4200
+Task 1: Took 0.016513824462890625
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.015110492706298828
+Task 3: No route found.
+Task 3: Took 0.05786943435668945
+Time taken for start_city=9172, destination=4200: 0.09 seconds
+
+
+Testing routes for start_city=2490, destination=2577
+Task 1: Took 0.16773748397827148
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.2894713878631592
+Task 3: No route found.
+Task 3: Took 0.3101973533630371
+Time taken for start_city=2490, destination=2577: 0.77 seconds
+
+
+Testing routes for start_city=8742, destination=3844
+Task 1: Took 0.015621423721313477
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 1.122514009475708
+Task 3: No route found.
+Task 3: Took 0.0468904972076416
+Time taken for start_city=8742, destination=3844: 1.19 seconds
+
+
+Testing routes for start_city=3091, destination=4143
+Task 1: Took 0.17193269729614258
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.09384608268737793
+Task 3: No route found.
+Task 3: Took 0.17043137550354004
+Time taken for start_city=3091, destination=4143: 0.44 seconds
+
+
+Testing routes for start_city=8932, destination=4592
+Task 1: Took 0.0
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.015528678894042969
+Task 3: No route found.
+Task 3: Took 0.056388139724731445
+Time taken for start_city=8932, destination=4592: 0.07 seconds
+
+
+Testing routes for start_city=1973, destination=1739
+Task 1: Took 1.22245192527771
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.21793794631958008
+Task 3: No route found.
+Task 3: Took 0.29688191413879395
+Time taken for start_city=1973, destination=1739: 1.74 seconds
+
+
+Testing routes for start_city=3019, destination=667
+Task 1: Took 0.21072125434875488
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.1938481330871582
+Task 3: No route found.
+Task 3: Took 1.2951254844665527
+Time taken for start_city=3019, destination=667: 1.70 seconds
+
+
+Testing routes for start_city=8594, destination=1874
+Task 1: Took 0.0
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.03151893615722656
+Task 3: No route found.
+Task 3: Took 0.0655968189239502
+Time taken for start_city=8594, destination=1874: 0.10 seconds
+
+
+Testing routes for start_city=9842, destination=560
+Task 1: Took 0.0
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.02444911003112793
+Task 3: No route found.
+Task 3: Took 0.03262472152709961
+Time taken for start_city=9842, destination=560: 0.06 seconds
+
+
+Testing routes for start_city=2512, destination=3816
+Task 1: Took 0.1644141674041748
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.21875500679016113
+Task 3: No route found.
+Task 3: Took 1.4418673515319824
+Time taken for start_city=2512, destination=3816: 1.83 seconds
+
+
+Testing routes for start_city=1745, destination=9447
+Task 1: Took 0.279757022857666
+Task 1: Least Flights Earliest Route - Number of flights: 3, Arrival time: 6625
+Task 2: Cheapest Route - Total cost: 12790605
+Task 2: Took 1.4813106060028076
+Task 3: Least Flights Cheapest Route - Number of flights: 3, Total cost: 15260587
+Task 3: Took 0.37462711334228516
+Time taken for start_city=1745, destination=9447: 2.14 seconds
+
+
+Testing routes for start_city=949, destination=6732
+Task 1: Took 1.2000226974487305
+Task 1: Least Flights Earliest Route - Number of flights: 6, Arrival time: 4579
+Task 2: Cheapest Route - Total cost: 33267407
+Task 2: Took 0.2328813076019287
+Task 3: Least Flights Cheapest Route - Number of flights: 6, Total cost: 33267407
+Task 3: Took 0.34405970573425293
+Time taken for start_city=949, destination=6732: 1.78 seconds
+
+
+Testing routes for start_city=7124, destination=618
+Task 1: Took 0.05399203300476074
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.03220176696777344
+Task 3: No route found.
+Task 3: Took 1.081376552581787
+Time taken for start_city=7124, destination=618: 1.17 seconds
+
+
+Testing routes for start_city=2868, destination=1502
+Task 1: Took 0.14993834495544434
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.15671586990356445
+Task 3: No route found.
+Task 3: Took 0.1922285556793213
+Time taken for start_city=2868, destination=1502: 0.50 seconds
+
+
+Testing routes for start_city=9985, destination=1041
+Task 1: Took 0.0
+Task 1: No route found.
+Task 2: No route found.
+Task 2: Took 0.03459882736206055
+Task 3: No route found.
+Task 3: Took 0.05376887321472168
+Time taken for start_city=9985, destination=1041: 0.09 seconds
+
+
+Testing routes for start_city=3950, destination=8661
+Task 1: Took 0.07608938217163086
+Task 1: Least Flights Earliest Route - Number of flights: 5, Arrival time: 6517
+Task 2: Cheapest Route - Total cost: 27647546
+Task 2: Took 0.09375524520874023
+Task 3: Least Flights Cheapest Route - Number of flights: 5, Total cost: 27647546
+Task 3: Took 1.2247893810272217
+Time taken for start_city=3950, destination=8661: 1.39 seconds
+
+
+Testing routes for start_city=401, destination=9030
+Task 1: Took 0.37322402000427246
+Task 1: Least Flights Earliest Route - Number of flights: 4, Arrival time: 3742
+Task 2: Cheapest Route - Total cost: 14943938
+Task 2: Took 0.38904547691345215
+Task 3: Least Flights Cheapest Route - Number of flights: 4, Total cost: 17296590
+Task 3: Took 1.589735984802246
+Time taken for start_city=401, destination=9030: 2.35 seconds
+
+Total time taken for all tests: 19.13 seconds

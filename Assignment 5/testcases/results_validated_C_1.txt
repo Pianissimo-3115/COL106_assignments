@@ -1,0 +1,90 @@
+Validation Results for C_1.txt
+Number of vertices: 10011
+Number of flights: 100411
+
+Results for destination 100:
+==================================================
+
+Least Flights Earliest:
+----------------------------------------
+Number of flights: 3
+Arrival time: 365
+Total cost: 15786123
+
+Validation:
+num_flights: PASS (got 3, expected 3)
+arrival_time: PASS (got N/A, expected N/A)
+Overall: PASS
+
+Computation time: 0.9156 seconds
+
+
+Cheapest:
+----------------------------------------
+Number of flights: 3
+Arrival time: 365
+Total cost: 15786123
+
+Validation:
+cost: PASS (got 15786123, expected 15786123)
+Overall: PASS
+
+Computation time: 1.3347 seconds
+
+
+Least Flights Cheapest:
+----------------------------------------
+Number of flights: 3
+Arrival time: 365
+Total cost: 15786123
+
+Validation:
+num_flights: PASS (got 3, expected 3)
+cost: PASS (got 15786123, expected 15786123)
+Overall: PASS
+
+Computation time: 1.5256 seconds
+
+
+Results for destination 110:
+==================================================
+
+Least Flights Earliest:
+----------------------------------------
+Number of flights: 3
+Arrival time: 537
+Total cost: 17953837
+
+Validation:
+num_flights: PASS (got 3, expected 3)
+arrival_time: PASS (got N/A, expected N/A)
+Overall: PASS
+
+Computation time: 0.7033 seconds
+
+
+Cheapest:
+----------------------------------------
+Number of flights: 3
+Arrival time: 537
+Total cost: 17953837
+
+Validation:
+cost: PASS (got 17953837, expected 17953837)
+Overall: PASS
+
+Computation time: 1.2023 seconds
+
+
+Least Flights Cheapest:
+----------------------------------------
+Number of flights: 3
+Arrival time: 537
+Total cost: 17953837
+
+Validation:
+num_flights: PASS (got 3, expected 3)
+cost: PASS (got 17953837, expected 17953837)
+Overall: PASS
+
+Computation time: 1.5590 seconds
