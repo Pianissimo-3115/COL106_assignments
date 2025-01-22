@@ -1,0 +1,63 @@
+----------tc_heap1.txt----------
+10 inserted
+20 inserted
+30 inserted
+100 inserted
+5 inserted
+25 inserted
+5 extracted
+10 extracted
+Top: 20
+70 inserted
+4 inserted
+4 extracted
+20 extracted
+1 inserted
+Top: 1
+-100 inserted
+Top: -100
+-100 1 25 30 70 100 
+
+----------tc_treasury1.txt----------
+Treasure 1 added to treasury
+Completion Time: [(1, 9)]
+Treasure 2 added to treasury
+Completion Time: [(1, 9), (2, 9)]
+Treasure 3 added to treasury
+Completion Time: [(1, 9), (2, 9), (3, 8)]
+Treasure 4 added to treasury
+Completion Time: [(1, 9), (2, 9), (3, 9), (4, 6)]
+
+----------tc_treasury2.txt----------
+Treasure 1000 added to treasury
+Completion Time: [(1000, 1000000001)]
+Treasure 1001 added to treasury
+Completion Time: [(1000, 1000000001), (1001, 2300000000)]
+Treasure 1002 added to treasury
+Completion Time: [(1000, 1100000001), (1001, 2300000000), (1002, 500000000)]
+Treasure 1003 added to treasury
+Completion Time: [(1000, 1100000001), (1001, 2300000000), (1002, 500000000), (1003, 6100000001)]
+Treasure 1004 added to treasury
+Completion Time: [(1000, 1100000001), (1001, 2300000000), (1002, 500000000), (1003, 6100000001), (1004, 3500000000)]
+
+----------tc_treasury_self.txt----------
+Treasure 1 added to treasury
+Completion Time: [(1, 9)]
+Treasure 2 added to treasury
+Completion Time: [(1, 9), (2, 9)]
+Treasure 3 added to treasury
+Completion Time: [(1, 9), (2, 9), (3, 8)]
+Treasure 4 added to treasury
+Completion Time: [(1, 9), (2, 9), (3, 9), (4, 6)]
+Treasure 5 added to treasury
+Completion Time: [(1, 9), (2, 9), (3, 9), (4, 6), (5, 13)]
+Treasure 6 added to treasury
+Completion Time: [(1, 9), (2, 9), (3, 9), (4, 6), (5, 13), (6, 13)]
+Treasure 7 added to treasury
+Completion Time: [(1, 9), (2, 9), (3, 9), (4, 6), (5, 13), (6, 13), (7, 35)]
+Treasure 8 added to treasury
+Completion Time: [(1, 9), (2, 9), (3, 9), (4, 6), (5, 13), (6, 13), (7, 35), (8, 35)]
+Treasure 9 added to treasury
+Completion Time: [(1, 9), (2, 9), (3, 9), (4, 6), (5, 13), (6, 13), (7, 35), (8, 35), (9, 38)]
+
+END
