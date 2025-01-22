@@ -1,0 +1,206 @@
+Adding Initial Bins:
+Added Bin ID: 1001, Capacity: 50
+Added Bin ID: 1002, Capacity: 30
+Added Bin ID: 1003, Capacity: 40
+Added Bin ID: 1004, Capacity: 25
+Added Bin ID: 1005, Capacity: 35
+Added Bin ID: 1006, Capacity: 60
+Added Bin ID: 1007, Capacity: 45
+Added Bin ID: 1008, Capacity: 55
+Added Bin ID: 1009, Capacity: 20
+Added Bin ID: 1010, Capacity: 70
+
+--------------------------------------------------------------------------------
+
+Adding Initial Objects:
+Added Object ID: 2001, Size: 20, Color: RED
+Added Object ID: 2002, Size: 15, Color: YELLOW
+Added Object ID: 2003, Size: 10, Color: BLUE
+Added Object ID: 2004, Size: 25, Color: GREEN
+Added Object ID: 2005, Size: 30, Color: RED
+Added Object ID: 2006, Size: 5, Color: YELLOW
+Added Object ID: 2007, Size: 8, Color: BLUE
+Added Object ID: 2008, Size: 22, Color: GREEN
+Added Object ID: 2009, Size: 35, Color: BLUE
+Added Object ID: 2010, Size: 40, Color: RED
+Added Object ID: 2011, Size: 12, Color: YELLOW
+Added Object ID: 2012, Size: 18, Color: GREEN
+Added Object ID: 2013, Size: 7, Color: BLUE
+Added Object ID: 2014, Size: 28, Color: RED
+Added Object ID: 2015, Size: 16, Color: YELLOW
+
+--------------------------------------------------------------------------------
+
+Bin Information After Adding Initial Objects:
+Bin ID: 1001, Remaining Capacity: 10, Objects: [2010]
+Bin ID: 1002, Remaining Capacity: 30, Objects: []
+Bin ID: 1003, Remaining Capacity: 12, Objects: [2014]
+Bin ID: 1004, Remaining Capacity: 0, Objects: [2003, 2007, 2013]
+Bin ID: 1005, Remaining Capacity: 0, Objects: [2009]
+Bin ID: 1006, Remaining Capacity: 35, Objects: [2004]
+Bin ID: 1007, Remaining Capacity: 11, Objects: [2012, 2015]
+Bin ID: 1008, Remaining Capacity: 13, Objects: [2005, 2011]
+Bin ID: 1009, Remaining Capacity: 0, Objects: [2002, 2006]
+Bin ID: 1010, Remaining Capacity: 28, Objects: [2001, 2008]
+
+--------------------------------------------------------------------------------
+
+Object Information After Adding Initial Objects:
+Object ID: 2001 is assigned to Bin ID: 1010
+Object ID: 2002 is assigned to Bin ID: 1009
+Object ID: 2003 is assigned to Bin ID: 1004
+Object ID: 2004 is assigned to Bin ID: 1006
+Object ID: 2005 is assigned to Bin ID: 1008
+Object ID: 2006 is assigned to Bin ID: 1009
+Object ID: 2007 is assigned to Bin ID: 1004
+Object ID: 2008 is assigned to Bin ID: 1010
+Object ID: 2009 is assigned to Bin ID: 1005
+Object ID: 2010 is assigned to Bin ID: 1001
+Object ID: 2011 is assigned to Bin ID: 1008
+Object ID: 2012 is assigned to Bin ID: 1007
+Object ID: 2013 is assigned to Bin ID: 1004
+Object ID: 2014 is assigned to Bin ID: 1003
+Object ID: 2015 is assigned to Bin ID: 1007
+
+--------------------------------------------------------------------------------
+
+Adding Additional Bins:
+Added Bin ID: 1011, Capacity: 65
+Added Bin ID: 1012, Capacity: 45
+Added Bin ID: 1013, Capacity: 55
+
+--------------------------------------------------------------------------------
+
+Adding Additional Objects:
+Added Object ID: 2016, Size: 25, Color: GREEN
+Added Object ID: 2017, Size: 14, Color: YELLOW
+Added Object ID: 2018, Size: 9, Color: BLUE
+Added Object ID: 2019, Size: 50, Color: RED
+Added Object ID: 2020, Size: 33, Color: YELLOW
+Added Object ID: 2021, Size: 12, Color: GREEN
+Added Object ID: 2022, Size: 7, Color: BLUE
+Added Object ID: 2023, Size: 19, Color: RED
+Added Object ID: 2024, Size: 28, Color: YELLOW
+Added Object ID: 2025, Size: 11, Color: BLUE
+
+--------------------------------------------------------------------------------
+
+Bin Information After Adding Additional Objects:
+Bin ID: 1001, Remaining Capacity: 1, Objects: [2010, 2018]
+Bin ID: 1002, Remaining Capacity: 2, Objects: [2024]
+Bin ID: 1003, Remaining Capacity: 1, Objects: [2014, 2025]
+Bin ID: 1004, Remaining Capacity: 0, Objects: [2003, 2007, 2013]
+Bin ID: 1005, Remaining Capacity: 0, Objects: [2009]
+Bin ID: 1006, Remaining Capacity: 2, Objects: [2004, 2020]
+Bin ID: 1007, Remaining Capacity: 4, Objects: [2012, 2015, 2022]
+Bin ID: 1008, Remaining Capacity: 13, Objects: [2005, 2011]
+Bin ID: 1009, Remaining Capacity: 0, Objects: [2002, 2006]
+Bin ID: 1010, Remaining Capacity: 14, Objects: [2001, 2008, 2017]
+Bin ID: 1011, Remaining Capacity: 21, Objects: [2016, 2023]
+Bin ID: 1012, Remaining Capacity: 33, Objects: [2021]
+Bin ID: 1013, Remaining Capacity: 5, Objects: [2019]
+
+--------------------------------------------------------------------------------
+
+Object Information After Adding Additional Objects:
+Object ID: 2001 is assigned to Bin ID: 1010
+Object ID: 2002 is assigned to Bin ID: 1009
+Object ID: 2003 is assigned to Bin ID: 1004
+Object ID: 2004 is assigned to Bin ID: 1006
+Object ID: 2005 is assigned to Bin ID: 1008
+Object ID: 2006 is assigned to Bin ID: 1009
+Object ID: 2007 is assigned to Bin ID: 1004
+Object ID: 2008 is assigned to Bin ID: 1010
+Object ID: 2009 is assigned to Bin ID: 1005
+Object ID: 2010 is assigned to Bin ID: 1001
+Object ID: 2011 is assigned to Bin ID: 1008
+Object ID: 2012 is assigned to Bin ID: 1007
+Object ID: 2013 is assigned to Bin ID: 1004
+Object ID: 2014 is assigned to Bin ID: 1003
+Object ID: 2015 is assigned to Bin ID: 1007
+Object ID: 2016 is assigned to Bin ID: 1011
+Object ID: 2017 is assigned to Bin ID: 1010
+Object ID: 2018 is assigned to Bin ID: 1001
+Object ID: 2019 is assigned to Bin ID: 1013
+Object ID: 2020 is assigned to Bin ID: 1006
+Object ID: 2021 is assigned to Bin ID: 1012
+Object ID: 2022 is assigned to Bin ID: 1007
+Object ID: 2023 is assigned to Bin ID: 1011
+Object ID: 2024 is assigned to Bin ID: 1002
+Object ID: 2025 is assigned to Bin ID: 1003
+
+--------------------------------------------------------------------------------
+
+Deleting Objects:
+Deleted Object ID: 2003
+Deleted Object ID: 2005
+Deleted Object ID: 2010
+Deleted Object ID: 2015
+Deleted Object ID: 2018
+Deleted Object ID: 2019
+
+--------------------------------------------------------------------------------
+
+Bin Information After Deleting Objects:
+Bin ID: 1001, Remaining Capacity: 50, Objects: []
+Bin ID: 1002, Remaining Capacity: 2, Objects: [2024]
+Bin ID: 1003, Remaining Capacity: 1, Objects: [2014, 2025]
+Bin ID: 1004, Remaining Capacity: 10, Objects: [2007, 2013]
+Bin ID: 1005, Remaining Capacity: 0, Objects: [2009]
+Bin ID: 1006, Remaining Capacity: 2, Objects: [2004, 2020]
+Bin ID: 1007, Remaining Capacity: 20, Objects: [2012, 2022]
+Bin ID: 1008, Remaining Capacity: 43, Objects: [2011]
+Bin ID: 1009, Remaining Capacity: 0, Objects: [2002, 2006]
+Bin ID: 1010, Remaining Capacity: 14, Objects: [2001, 2008, 2017]
+Bin ID: 1011, Remaining Capacity: 21, Objects: [2016, 2023]
+Bin ID: 1012, Remaining Capacity: 33, Objects: [2021]
+Bin ID: 1013, Remaining Capacity: 55, Objects: []
+
+--------------------------------------------------------------------------------
+
+Object Information After Deleting Objects:
+Object ID: 2001 is assigned to Bin ID: 1010
+Object ID: 2002 is assigned to Bin ID: 1009
+Object ID: 2004 is assigned to Bin ID: 1006
+Object ID: 2006 is assigned to Bin ID: 1009
+Object ID: 2007 is assigned to Bin ID: 1004
+Object ID: 2008 is assigned to Bin ID: 1010
+Object ID: 2009 is assigned to Bin ID: 1005
+Object ID: 2011 is assigned to Bin ID: 1008
+Object ID: 2012 is assigned to Bin ID: 1007
+Object ID: 2013 is assigned to Bin ID: 1004
+Object ID: 2014 is assigned to Bin ID: 1003
+Object ID: 2016 is assigned to Bin ID: 1011
+Object ID: 2017 is assigned to Bin ID: 1010
+Object ID: 2020 is assigned to Bin ID: 1006
+Object ID: 2021 is assigned to Bin ID: 1012
+Object ID: 2022 is assigned to Bin ID: 1007
+Object ID: 2023 is assigned to Bin ID: 1011
+Object ID: 2024 is assigned to Bin ID: 1002
+Object ID: 2025 is assigned to Bin ID: 1003
+
+--------------------------------------------------------------------------------
+
+Adding an Object That Cannot Fit into Any Bin:
+Failed to add Object ID: 2026, Size: 100, Color: BLUE - No suitable bin found
+
+--------------------------------------------------------------------------------
+
+Final Bin Information:
+Bin ID: 1001, Remaining Capacity: 50, Objects: []
+Bin ID: 1002, Remaining Capacity: 2, Objects: [2024]
+Bin ID: 1003, Remaining Capacity: 1, Objects: [2014, 2025]
+Bin ID: 1004, Remaining Capacity: 10, Objects: [2007, 2013]
+Bin ID: 1005, Remaining Capacity: 0, Objects: [2009]
+Bin ID: 1006, Remaining Capacity: 2, Objects: [2004, 2020]
+Bin ID: 1007, Remaining Capacity: 20, Objects: [2012, 2022]
+Bin ID: 1008, Remaining Capacity: 43, Objects: [2011]
+Bin ID: 1009, Remaining Capacity: 0, Objects: [2002, 2006]
+Bin ID: 1010, Remaining Capacity: 14, Objects: [2001, 2008, 2017]
+Bin ID: 1011, Remaining Capacity: 21, Objects: [2016, 2023]
+Bin ID: 1012, Remaining Capacity: 33, Objects: [2021]
+Bin ID: 1013, Remaining Capacity: 55, Objects: []
+
+--------------------------------------------------------------------------------
+
+All enhanced tests completed.
